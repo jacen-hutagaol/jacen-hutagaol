@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi friend 👋
+
+I'm so excited to do computer stuff with you!!!
+
+At the moment I am currently learning how to use Microsoft Word 😁
 
 <!--
 **jacen-hutagaol/jacen-hutagaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
